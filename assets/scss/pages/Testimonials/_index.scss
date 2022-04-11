@@ -1,0 +1,16 @@
+.testimonials{
+    h4{
+        @include h4-head;
+    }
+    h5{
+        font-weight: 500;
+        font-size: 24px;
+        color: #2A2A2A;
+        margin-bottom: 120px;
+    }
+
+    .testi_content{
+        margin-bottom: 90px;
+        
+    }
+}

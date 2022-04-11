@@ -1,0 +1,10 @@
+.podcast {
+  h4 {
+    @include h4-head;
+  }
+  p {
+    font-size: 26px;
+    letter-spacing: 0.1px;
+    color: #000000;
+  }
+}

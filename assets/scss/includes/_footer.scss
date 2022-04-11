@@ -1,0 +1,68 @@
+footer {
+  background: $primaryColor;
+  box-shadow: 0px 0px 12px 0px rgba(0, 0, 0, 0.1);
+  display: flex;
+  align-items: center;
+  height: $footerHeight;
+
+  .row {
+    align-items: center;
+    & + .row {
+      border-top: 1px solid #fff;
+      padding-top: 15px;
+      margin-top: 15px;
+    }
+  }
+
+  .ftr_logo {
+    a {
+      height: 48px;
+      img {
+        width: 230px;
+      }
+    }
+    p {
+      font-size: 18px;
+      color: #fff;
+      margin-top: 7px;
+      display: none;
+    }
+  }
+  .ftr_icons {
+    display: flex;
+    justify-content: flex-end;
+
+    a {
+      color: #fff;
+      font-size: 17px;
+
+      & + a {
+        margin-left: 12px;
+      }
+    }
+  }
+  .ftr_ul {
+    ul {
+      display: flex;
+      flex-direction: row;
+      li {
+        & + li {
+          margin-left: 15px;
+        }
+        a {
+          font-size: 14px;
+          color: #fff;
+        }
+      }
+    }
+  }
+  .ftr_copy {
+    display: flex;
+    justify-content: flex-end;
+
+    p {
+      color: #fff;
+      font-size: 14px;
+    }
+  }
+}

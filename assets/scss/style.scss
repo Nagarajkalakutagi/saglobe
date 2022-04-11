@@ -1,0 +1,24 @@
+// Fonts
+@import "fonts";
+
+// Bootstrap
+@import "./bootstrap/bootstrap";
+
+//Variables
+@import "variable";
+
+//Mixins
+@import "mixins";
+
+//Components
+@import "./components/index";
+
+//Reboot
+@import "reboot";
+
+//Includes
+@import "./includes/header";
+@import "./includes/footer";
+
+//Pages
+@import "./pages/index";

@@ -1,0 +1,54 @@
+@mixin reset-ul {
+    list-style: none;
+    padding-left: 0;
+    margin-bottom: 0;
+  }
+
+@mixin section-padd {
+    padding: 5% 0;
+}  
+
+@mixin btnColor {
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    font-size: 13px;
+    display: inline-block;
+    padding: 9px 35px;
+    border-radius: 9px;
+    transition: 0.5s;
+    color: #0C80E8;
+    border: 2px solid #0C80E8;
+    width: 152px;
+    text-align: center;
+}
+
+@mixin btnHover {
+    background: #0C80E8;
+    color: #fff;
+
+}
+
+@mixin box ($w: 5px, $h: false) {
+    width: $w;
+    @if($h){
+        height: $h;
+    }@else { 
+        height: $w;
+    }
+}
+
+@mixin our-flex {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+@mixin h4-head {
+    font-size: 32px;
+    font-weight: 700;
+    position: relative;
+    color: #222222;
+    margin-bottom: 40px;
+    width: 100%;
+}
+
