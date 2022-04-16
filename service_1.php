@@ -12,11 +12,14 @@
                 <div class="col-md-12 wow fadeInUp" data-wow-delay=".6s">
                     <div class="platform_servicescontnt">
                         <h4>Experience Engineering, Product & Design</h4>
-                        <p>The QC platform offers an array of quality checks to fit your campaign requirements.</p>
+                        <p>A positive relationship between the Product Designers, and Engineers is important for building high-quality products.</p>
+                      
                         <div class="platform_box ">
                             <div class="row">
                                 <div class="col-md-2 pr-5">
+                                     <img src="assets/img/services_icon/experience_eng.png" alt="img">
                                     <!-- <img src="https://www.trueqc.io/static/images/Group1891.png" alt="img"> -->
+                                    
                                 </div>
                                 <div class="col-md-8">
                                     <h5>Experience Engineering</h5>
@@ -39,7 +42,7 @@
                         <div class="platform_box ">
                             <div class="row">
                                 <div class="col-md-2 pr-5">
-                                    <!-- <img src="https://www.trueqc.io/static/images/Group1891.png" alt="img"> -->
+                                    <img src="assets/img/services_icon/product_strategy.png" alt="img">
                                 </div>
                                 <div class="col-md-8">
                                     <h5>Product Strategy</h5>
@@ -63,7 +66,7 @@ We are backed by a team of highly practiced design thinking specialists and stra
                         <div class="platform_box ">
                             <div class="row">
                                 <div class="col-md-2 pr-5">
-                                    <!-- <img src="https://www.trueqc.io/static/images/Group1891.png" alt="img"> -->
+                                    <img src="assets/img/services_icon/product_design.png" alt="img">
                                 </div>
                                 <div class="col-md-8">
                                     <h5>Product Design</h5>
@@ -86,7 +89,7 @@ We are backed by a team of highly practiced design thinking specialists and stra
                         <div class="platform_box ">
                             <div class="row">
                                 <div class="col-md-2 pr-5">
-                                    <!-- <img src="https://www.trueqc.io/static/images/Group1891.png" alt="img"> -->
+                                    <img src="assets/img/services_icon/Tech Advisory and Consulting.png" alt="img">
                                 </div>
                                 <div class="col-md-8">
                                     <h5>Tech Advisory and Consulting</h5>

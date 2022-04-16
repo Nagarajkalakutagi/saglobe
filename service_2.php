@@ -12,11 +12,11 @@
                 <div class="col-md-12 wow fadeInUp" data-wow-delay=".6s">
                     <div class="platform_servicescontnt">
                         <h4>PRODUT ENGINEERING</h4>
-                        <p>The QC platform offers an array of quality checks to fit your campaign requirements.</p>
+                        <p>Product engineering usually entails activity dealing with issues of cost, producibility, quality, performance, reliability, serviceability, intended lifespan and user features.</p>
                         <div class="platform_box ">
                             <div class="row">
                                 <div class="col-md-2 pr-5">
-                                    <!-- <img src="https://www.trueqc.io/static/images/Group1891.png" alt="img"> -->
+                                <img src="assets/img/services_icon/Digital Application Development.png" alt="img">
                                 </div>
                                 <div class="col-md-8">
                                     <h5> Digital Application Development</h5>
@@ -38,7 +38,7 @@
                         <div class="platform_box ">
                             <div class="row">
                                 <div class="col-md-2 pr-5">
-                                    <!-- <img src="https://www.trueqc.io/static/images/Group1891.png" alt="img"> -->
+                                <img src="assets/img/services_icon/Application Transformation.png" alt="img">
                                 </div>
                                 <div class="col-md-8">
                                     <h5>Application Transformation</h5>
@@ -60,7 +60,7 @@
                         <div class="platform_box ">
                             <div class="row">
                                 <div class="col-md-2 pr-5">
-                                    <!-- <img src="https://www.trueqc.io/static/images/Group1891.png" alt="img"> -->
+                                <img src="assets/img/services_icon/Product Operations.png" alt="img">
                                 </div>
                                 <div class="col-md-8">
                                     <h5>Product Operations</h5>
@@ -83,7 +83,7 @@
                         <div class="platform_box ">
                             <div class="row">
                                 <div class="col-md-2 pr-5">
-                                    <!-- <img src="https://www.trueqc.io/static/images/Group1891.png" alt="img"> -->
+                                <img src="assets/img/services_icon/cloud.png" alt="img">
                                 </div>
                                 <div class="col-md-8">
                                     <h5>Cloud</h5>
@@ -105,7 +105,7 @@
                         <div class="platform_box ">
                             <div class="row">
                                 <div class="col-md-2 pr-5">
-                                    <!-- <img src="https://www.trueqc.io/static/images/Group1891.png" alt="img"> -->
+                                <img src="assets/img/services_icon/API Driven Development.png" alt="img">
                                 </div>
                                 <div class="col-md-8">
                                     <h5>API Driven Development</h5>

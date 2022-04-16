@@ -12,11 +12,12 @@
                 <div class="col-md-12 wow fadeInUp" data-wow-delay=".6s">
                     <div class="platform_servicescontnt">
                         <h4>Data Engineering and AI</h4>
-                        <p>The QC platform offers an array of quality checks to fit your campaign requirements.</p>
+                        <p>Data Engineering involves data acquisition from physical world, representation to support high-level query, storage in distributed physical medium, analytical techniques for de-noising and conditioning data, analytical techniques for discovery of relationship across various data sets, feature extraction, and automatic labeling of data for higher-level learning systems such as AI.</p>
+                        
                         <div class="platform_box ">
                             <div class="row">
                                 <div class="col-md-2 pr-5">
-                                    <!-- <img src="https://www.trueqc.io/static/images/Group1891.png" alt="img"> -->
+                                <img src="assets/img/services_icon/data-science.png" alt="img">
                                 </div>
                                 <div class="col-md-8">
                                     <h5>Data Engineering</h5>
@@ -38,7 +39,7 @@
                         <div class="platform_box ">
                             <div class="row">
                                 <div class="col-md-2 pr-5">
-                                    <!-- <img src="https://www.trueqc.io/static/images/Group1891.png" alt="img"> -->
+                                <img src="assets/img/services_icon/ai and ml.png" alt="img">
                                 </div>
                                 <div class="col-md-8">
                                     <h5>AI & ML</h5>
@@ -59,7 +60,7 @@
                         <div class="platform_box ">
                             <div class="row">
                                 <div class="col-md-2 pr-5">
-                                    <!-- <img src="https://www.trueqc.io/static/images/Group1891.png" alt="img"> -->
+                                <img src="assets/img/services_icon/data-visualization.png" alt="img">
                                 </div>
                                 <div class="col-md-8">
                                     <h5>Data Visualization & Analytics</h5>

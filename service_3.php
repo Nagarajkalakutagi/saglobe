@@ -12,11 +12,14 @@
                 <div class="col-md-12 wow fadeInUp" data-wow-delay=".6s">
                     <div class="platform_servicescontnt">
                         <h4>DigiNext</h4>
-                        <p>The QC platform offers an array of quality checks to fit your campaign requirements.</p>
+                        <p>DigiNext, Blockchain can further be
+used in the context of IoT to automate machine-to-machine
+payments like connected machines negotiating and exec-
+uting price based on the logistics activities performed.</p>
                         <div class="platform_box ">
                             <div class="row">
                                 <div class="col-md-2 pr-5">
-                                    <!-- <img src="https://www.trueqc.io/static/images/Group1891.png" alt="img"> -->
+                                <img src="assets/img/services_icon/blockchain.png" alt="img">
                                 </div>
                                 <div class="col-md-8">
                                     <h5>Blockchain</h5>
@@ -38,7 +41,7 @@
                         <div class="platform_box ">
                             <div class="row">
                                 <div class="col-md-2 pr-5">
-                                    <!-- <img src="https://www.trueqc.io/static/images/Group1891.png" alt="img"> -->
+                                <img src="assets/img/services_icon/iot.jpg" alt="img">
                                 </div>
                                 <div class="col-md-8">
                                     <h5>IoT</h5>
@@ -62,7 +65,7 @@ One of the world’s leading IoT app development companies, SA IT & BLOCKCHAIN e
                         <div class="platform_box ">
                             <div class="row">
                                 <div class="col-md-2 pr-5">
-                                    <!-- <img src="https://www.trueqc.io/static/images/Group1891.png" alt="img"> -->
+                                <img src="assets/img/services_icon/automation.png" alt="img">
                                 </div>
                                 <div class="col-md-8">
                                     <h5>Automation</h5>
